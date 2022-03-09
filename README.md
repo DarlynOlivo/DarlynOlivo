@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarlynOlivo
 - 👀 I’m interested in Apps Devolpment
-- 🌱 I’m currently learning BackEnd(Phyton) 
+- 🌱 I’m currently learning BackEnd(Python) 
 
 <!---
 DarlynOlivo/DarlynOlivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
