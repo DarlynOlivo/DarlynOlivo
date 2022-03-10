@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarlynOlivo
-- 👀 I’m interested in Apps Devolpment
+- 👀 I’m interested in Web Devolpment
 - 🌱 I’m currently learning BackEnd(Python) 
 
 <!---
